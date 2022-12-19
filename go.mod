@@ -1,4 +1,4 @@
-module github.com/timescale/promscale
+module github.com/nhudson/promscale
 
 go 1.17
 
